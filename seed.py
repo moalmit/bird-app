@@ -21,4 +21,3 @@ with app.app_context():
     db.session.commit()
 
     print('Complete.')
-    print('✔ Success!')
